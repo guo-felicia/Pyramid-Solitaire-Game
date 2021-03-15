@@ -1,4 +1,6 @@
 ## Pyramid Solitair Game
+This is a java interaction game.
+
 ### Purpose
 The model-view-coontroller architecture is used to support parallel program developing. The overall game is umplemented by three level: 
 1) Model - Building a.Basic Pyramid Solitair. 
